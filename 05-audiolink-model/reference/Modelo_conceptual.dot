@@ -1,0 +1,8 @@
+digraph conceptual {
+ graph [rankdir=LR, bgcolor="white", margin=0.25, pad=0.4, nodesep=0.65, ranksep=1.3, splines=polyline, fontname="DejaVu Sans"];
+ node [shape=box, style="rounded,filled", color="#B9CCD4", penwidth=1.4, fillcolor="#EAF5F5", fontcolor="#142B42", fontname="DejaVu Sans", fontsize=16, margin="0.22,0.18"];
+ edge [color="#1F7480", penwidth=1.5, dir=both, arrowtail=tee, arrowhead=crow, fontname="DejaVu Sans", fontsize=11, fontcolor="#345A68"];
+ Cliente; Sede; Evento [fillcolor="#DCECED",penwidth=2]; CategoriaEquipo [label="Categoría de equipo"]; Equipo; Tecnico [label="Técnico"];
+ {rank=same; Cliente; Sede; Tecnico;} {rank=same; Evento;} {rank=same; Equipo;} {rank=same; CategoriaEquipo;}
+ Cliente -> Evento [label="1 : N (genera)"]; Sede -> Evento [label="1 : N (aloja)"]; Evento -> Equipo [label="N : M (reserva)"]; Tecnico -> Evento [label="N : M (participa)"]; CategoriaEquipo -> Equipo [label="1 : N (clasifica)"];
+}

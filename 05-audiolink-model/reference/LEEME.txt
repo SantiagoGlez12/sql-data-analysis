@@ -1,0 +1,13 @@
+ACTIVIDAD M14 — AUDIOLINK EVENTOS (caso ficticio)
+
+ENTREGABLES PRINCIPALES
+- Solicitud_de_requerimientos_AudioLink.pdf: requerimientos, modelo conceptual, lógica, 3FN y aceptación.
+- Diagrama_ER_AudioLink.pdf: diagrama ER vectorial de 8 tablas con PK, FK y cardinalidades.
+
+MATERIALES DE APOYO
+- Diagrama_ER_AudioLink.png y .svg: versiones de imagen del diagrama.
+- Modelo_conceptual.png: entidades y relaciones generales.
+- Modelo_logico_SQL_Server.sql: DDL ejecutable en SQL Server; crea BD AudioLink, 8 tablas, constraints y consultas.
+- Archivos .dot: fuentes editables de Graphviz.
+
+El caso es académico y ficticio. La validación de choques de agenda y sobreventa de stock requeriría lógica adicional.

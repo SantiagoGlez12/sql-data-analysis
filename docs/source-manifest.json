@@ -1,0 +1,148 @@
+{
+  "source": "Documentos GIT / Analisis de Datos / 3 SQL para analisis de datos",
+  "files": [
+    {
+      "source_path": "M10/Tarea M10 - Santiago Gonzalez.sql",
+      "destination_path": "01-analytical-queries/aggregation-and-window-functions.sql",
+      "git_blob_sha": "a385df3e0b3dadd0b03704a2dbdf56afd6724e2c",
+      "size": 2052
+    },
+    {
+      "source_path": "M11/Tarea M11 - Santiago Gonzalez.sql",
+      "destination_path": "02-subqueries-and-ctes/subqueries-ctes-and-temporary-tables.sql",
+      "git_blob_sha": "ee0c72423cdff5334178410ed9baab0747d42869",
+      "size": 3457
+    },
+    {
+      "source_path": "M12/Tarea M12 - Santiago Gonzalez.sql",
+      "destination_path": "03-database-objects/views-functions-and-procedures.sql",
+      "git_blob_sha": "2529cc97e885790caf375353277ba7d4a39f540d",
+      "size": 3035
+    },
+    {
+      "source_path": "M13/SQL/01_crear_Paperclip.sql",
+      "destination_path": "04-paperclip/SQL/01_crear_Paperclip.sql",
+      "git_blob_sha": "17c22cfbcd74c338e2f67cc2363ff6345b6d84ad",
+      "size": 1292
+    },
+    {
+      "source_path": "M13/SQL/02_esquemas_y_tablas.sql",
+      "destination_path": "04-paperclip/SQL/02_esquemas_y_tablas.sql",
+      "git_blob_sha": "df2bf5ff189dd35d1e694eced133f55bbfe3242c",
+      "size": 1193
+    },
+    {
+      "source_path": "M13/SQL/03_importar_CSV.sql",
+      "destination_path": "04-paperclip/SQL/03_importar_CSV.sql",
+      "git_blob_sha": "10f4e5ba24f3dbad58f02f5ab6c657ac71d910f7",
+      "size": 1742
+    },
+    {
+      "source_path": "M13/SQL/04_usuario_ventas.sql",
+      "destination_path": "04-paperclip/SQL/04_usuario_ventas.sql",
+      "git_blob_sha": "9ea65e4f38d51c99339e426b078e3275135f93a0",
+      "size": 1335
+    },
+    {
+      "source_path": "M13/SQL/05_respaldo.sql",
+      "destination_path": "04-paperclip/SQL/05_respaldo.sql",
+      "git_blob_sha": "1280f443a39df31e12d76bcd3a125efcd358fb78",
+      "size": 521
+    },
+    {
+      "source_path": "M13/SQL/06_eliminar_y_restaurar.sql",
+      "destination_path": "04-paperclip/SQL/06_eliminar_y_restaurar.sql",
+      "git_blob_sha": "b3409a9ceb07360eb84209b3e8f4108a3304065e",
+      "size": 1322
+    },
+    {
+      "source_path": "M13/SQL/07_verificar_restauracion.sql",
+      "destination_path": "04-paperclip/SQL/07_verificar_restauracion.sql",
+      "git_blob_sha": "2d8ce81ca3dd34e41405fa901f8b76fff8b74476",
+      "size": 1068
+    },
+    {
+      "source_path": "M13/Mac/00_configurar_mac_docker.sh",
+      "destination_path": "04-paperclip/Mac/00_configurar_mac_docker.sh",
+      "git_blob_sha": "402e38c2ce2c7488fd34232c70ee4080b7059bbe",
+      "size": 1874
+    },
+    {
+      "source_path": "M13/Mac/07_copiar_bak_a_mac.sh",
+      "destination_path": "04-paperclip/Mac/07_copiar_bak_a_mac.sh",
+      "git_blob_sha": "daccde669ce3daf77bc90d9112799a4e7430a582",
+      "size": 564
+    },
+    {
+      "source_path": "M13/CSV/Clientes.csv",
+      "destination_path": "04-paperclip/CSV/Clientes.csv",
+      "git_blob_sha": "6156dc3d6d35a259df2f84336dbfc0e62cc13bc1",
+      "size": 702
+    },
+    {
+      "source_path": "M13/CSV/Departamentos.csv",
+      "destination_path": "04-paperclip/CSV/Departamentos.csv",
+      "git_blob_sha": "1ce610cde0eafd8c40d942e8bca7f2b09a26a74a",
+      "size": 36
+    },
+    {
+      "source_path": "M13/CSV/Empleados.csv",
+      "destination_path": "04-paperclip/CSV/Empleados.csv",
+      "git_blob_sha": "d4fa9b67389d088b375050e6d996d5bf52680782",
+      "size": 303
+    },
+    {
+      "source_path": "M13/CSV/Ordenes.csv",
+      "destination_path": "04-paperclip/CSV/Ordenes.csv",
+      "git_blob_sha": "0994e90e24f6e2f6d9e321887482c448792d926a",
+      "size": 1900
+    },
+    {
+      "source_path": "M13/CSV/Productos.csv",
+      "destination_path": "04-paperclip/CSV/Productos.csv",
+      "git_blob_sha": "d6a62d821c90dbf53ef4049ee0b4f265759e9609",
+      "size": 3904
+    },
+    {
+      "source_path": "M13/LEEME.md",
+      "destination_path": "04-paperclip/LEEME.md",
+      "git_blob_sha": "8f70be56e1323d9acfb8c08ee0c666ee66b7eb25",
+      "size": 5296
+    },
+    {
+      "source_path": "M14/ACTIVIDAD M14 - Modelo relacional AudioLink Eventos - Santiago Gonzalez.sql",
+      "destination_path": "05-audiolink-model/schema.sql",
+      "git_blob_sha": "d947d1170146a25035f21a37d58b93428611eec9",
+      "size": 4229
+    },
+    {
+      "source_path": "M14/Diagrama_ER_AudioLink.dot",
+      "destination_path": "05-audiolink-model/reference/Diagrama_ER_AudioLink.dot",
+      "git_blob_sha": "4b4b36654beb5a7f256b2aca9c6b80128cbd632c",
+      "size": 11502
+    },
+    {
+      "source_path": "M14/Diagrama_ER_AudioLink.svg",
+      "destination_path": "05-audiolink-model/reference/Diagrama_ER_AudioLink.svg",
+      "git_blob_sha": "2993d0f5be3d1c4985d3561d7aaebab91f1463d9",
+      "size": 23766
+    },
+    {
+      "source_path": "M14/Modelo_conceptual.dot",
+      "destination_path": "05-audiolink-model/reference/Modelo_conceptual.dot",
+      "git_blob_sha": "81a390838b72ed1a5064f3bb89ec0167defa6df2",
+      "size": 944
+    },
+    {
+      "source_path": "M14/LEEME.txt",
+      "destination_path": "05-audiolink-model/reference/LEEME.txt",
+      "git_blob_sha": "bf5ee4b356b125fdaabe06e61b0953785e6cc3ac",
+      "size": 715
+    }
+  ],
+  "excluded_duplicate": {
+    "path": "M11/Tarea M12 - Santiago Gonzalez.sql",
+    "git_blob_sha": "153516c2a4532af1638c1f2fe0f51cb2e749fb65",
+    "reason": "Only heading and trailing whitespace differ from the published M12 copy"
+  }
+}
